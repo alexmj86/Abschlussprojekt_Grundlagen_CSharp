@@ -1,0 +1,30 @@
+C:\Users\alexm\source\repos\Projektarbeit\ConsoleApp1\obj\Debug\net7.0\Projektarbeit.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\Projektarbeit\ConsoleApp1\obj\Debug\net7.0\Projektarbeit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\Projektarbeit\ConsoleApp1\obj\Debug\net7.0\Projektarbeit.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\Projektarbeit\ConsoleApp1\obj\Debug\net7.0\Projektarbeit.AssemblyInfo.cs
+C:\Users\alexm\source\repos\Projektarbeit\ConsoleApp1\obj\Debug\net7.0\Projektarbeit.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\Projektarbeit\ConsoleApp1\bin\Debug\net7.0\Projektarbeit.exe
+C:\Users\alexm\source\repos\Projektarbeit\ConsoleApp1\bin\Debug\net7.0\Projektarbeit.deps.json
+C:\Users\alexm\source\repos\Projektarbeit\ConsoleApp1\bin\Debug\net7.0\Projektarbeit.runtimeconfig.json
+C:\Users\alexm\source\repos\Projektarbeit\ConsoleApp1\bin\Debug\net7.0\Projektarbeit.dll
+C:\Users\alexm\source\repos\Projektarbeit\ConsoleApp1\bin\Debug\net7.0\Projektarbeit.pdb
+C:\Users\alexm\source\repos\Projektarbeit\ConsoleApp1\obj\Debug\net7.0\Projektarbeit.dll
+C:\Users\alexm\source\repos\Projektarbeit\ConsoleApp1\obj\Debug\net7.0\refint\Projektarbeit.dll
+C:\Users\alexm\source\repos\Projektarbeit\ConsoleApp1\obj\Debug\net7.0\Projektarbeit.pdb
+C:\Users\alexm\source\repos\Projektarbeit\ConsoleApp1\obj\Debug\net7.0\Projektarbeit.genruntimeconfig.cache
+C:\Users\alexm\source\repos\Projektarbeit\ConsoleApp1\obj\Debug\net7.0\ref\Projektarbeit.dll
+C:\Users\alexm\source\repos\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\ConsoleApp1\obj\Debug\net7.0\Projektarbeit.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\ConsoleApp1\obj\Debug\net7.0\Projektarbeit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\ConsoleApp1\obj\Debug\net7.0\Projektarbeit.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\ConsoleApp1\obj\Debug\net7.0\Projektarbeit.AssemblyInfo.cs
+C:\Users\alexm\source\repos\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\ConsoleApp1\obj\Debug\net7.0\Projektarbeit.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\ConsoleApp1\obj\Debug\net7.0\Projektarbeit.dll
+C:\Users\alexm\source\repos\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\ConsoleApp1\obj\Debug\net7.0\refint\Projektarbeit.dll
+C:\Users\alexm\source\repos\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\ConsoleApp1\obj\Debug\net7.0\Projektarbeit.pdb
+C:\Users\alexm\source\repos\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\ConsoleApp1\bin\Debug\net7.0\Projektarbeit.exe
+C:\Users\alexm\source\repos\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\ConsoleApp1\bin\Debug\net7.0\Projektarbeit.deps.json
+C:\Users\alexm\source\repos\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\ConsoleApp1\bin\Debug\net7.0\Projektarbeit.runtimeconfig.json
+C:\Users\alexm\source\repos\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\ConsoleApp1\bin\Debug\net7.0\Projektarbeit.dll
+C:\Users\alexm\source\repos\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\ConsoleApp1\bin\Debug\net7.0\Projektarbeit.pdb
+C:\Users\alexm\source\repos\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\ConsoleApp1\obj\Debug\net7.0\Projektarbeit.genruntimeconfig.cache
+C:\Users\alexm\source\repos\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\ConsoleApp1\obj\Debug\net7.0\ref\Projektarbeit.dll
