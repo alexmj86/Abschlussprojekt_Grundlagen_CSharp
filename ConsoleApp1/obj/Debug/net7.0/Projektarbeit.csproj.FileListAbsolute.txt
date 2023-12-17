@@ -28,3 +28,18 @@ C:\Users\alexm\source\repos\Abschlussprojekt Alexander Mjalli\Projektarbeit Spie
 C:\Users\alexm\source\repos\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\ConsoleApp1\bin\Debug\net7.0\Projektarbeit.pdb
 C:\Users\alexm\source\repos\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\ConsoleApp1\obj\Debug\net7.0\Projektarbeit.genruntimeconfig.cache
 C:\Users\alexm\source\repos\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\ConsoleApp1\obj\Debug\net7.0\ref\Projektarbeit.dll
+D:\Alexander Mjalli\05_Programmierung\01_C# Projekte\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\Abschlussprojekt_Grundlagen_CSharp\ConsoleApp1\bin\Debug\net7.0\Projektarbeit.exe
+D:\Alexander Mjalli\05_Programmierung\01_C# Projekte\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\Abschlussprojekt_Grundlagen_CSharp\ConsoleApp1\bin\Debug\net7.0\Projektarbeit.deps.json
+D:\Alexander Mjalli\05_Programmierung\01_C# Projekte\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\Abschlussprojekt_Grundlagen_CSharp\ConsoleApp1\bin\Debug\net7.0\Projektarbeit.runtimeconfig.json
+D:\Alexander Mjalli\05_Programmierung\01_C# Projekte\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\Abschlussprojekt_Grundlagen_CSharp\ConsoleApp1\bin\Debug\net7.0\Projektarbeit.dll
+D:\Alexander Mjalli\05_Programmierung\01_C# Projekte\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\Abschlussprojekt_Grundlagen_CSharp\ConsoleApp1\bin\Debug\net7.0\Projektarbeit.pdb
+D:\Alexander Mjalli\05_Programmierung\01_C# Projekte\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\Abschlussprojekt_Grundlagen_CSharp\ConsoleApp1\obj\Debug\net7.0\Projektarbeit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alexander Mjalli\05_Programmierung\01_C# Projekte\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\Abschlussprojekt_Grundlagen_CSharp\ConsoleApp1\obj\Debug\net7.0\Projektarbeit.AssemblyInfoInputs.cache
+D:\Alexander Mjalli\05_Programmierung\01_C# Projekte\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\Abschlussprojekt_Grundlagen_CSharp\ConsoleApp1\obj\Debug\net7.0\Projektarbeit.AssemblyInfo.cs
+D:\Alexander Mjalli\05_Programmierung\01_C# Projekte\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\Abschlussprojekt_Grundlagen_CSharp\ConsoleApp1\obj\Debug\net7.0\Projektarbeit.csproj.CoreCompileInputs.cache
+D:\Alexander Mjalli\05_Programmierung\01_C# Projekte\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\Abschlussprojekt_Grundlagen_CSharp\ConsoleApp1\obj\Debug\net7.0\Projektarbeit.sourcelink.json
+D:\Alexander Mjalli\05_Programmierung\01_C# Projekte\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\Abschlussprojekt_Grundlagen_CSharp\ConsoleApp1\obj\Debug\net7.0\Projektarbeit.dll
+D:\Alexander Mjalli\05_Programmierung\01_C# Projekte\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\Abschlussprojekt_Grundlagen_CSharp\ConsoleApp1\obj\Debug\net7.0\refint\Projektarbeit.dll
+D:\Alexander Mjalli\05_Programmierung\01_C# Projekte\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\Abschlussprojekt_Grundlagen_CSharp\ConsoleApp1\obj\Debug\net7.0\Projektarbeit.pdb
+D:\Alexander Mjalli\05_Programmierung\01_C# Projekte\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\Abschlussprojekt_Grundlagen_CSharp\ConsoleApp1\obj\Debug\net7.0\Projektarbeit.genruntimeconfig.cache
+D:\Alexander Mjalli\05_Programmierung\01_C# Projekte\Abschlussprojekt Alexander Mjalli\Projektarbeit Spielbuch\Abschlussprojekt_Grundlagen_CSharp\ConsoleApp1\obj\Debug\net7.0\ref\Projektarbeit.dll

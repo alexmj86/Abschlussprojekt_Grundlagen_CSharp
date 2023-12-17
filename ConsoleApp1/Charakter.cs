@@ -9,21 +9,23 @@ namespace Projektarbeit
 {
     internal class Charakter
     {
+        // Private Felder zur Speicherung der Charakterinformationen
         private string name;
         private int alter;
         private string handy;
 
+        // Eigenschaften (Properties) zum Lesen und Setzen der privaten Felder
         public string Name { get => name; private set => name = value; }
         public int Alter { get => alter; private set => alter = value; }
         public string Handy { get => handy; private set => handy = value; }
 
+        // Methode zur Abfrage des Namens mit Konsolenausgabe und Validierung
         public string AbfrageName()
         {
-
-            Console.WriteLine("Bitte gib dein Name ein. Dein Name darf Maximal 20 Zeichen haben.");
+            Console.WriteLine("Bitte gib deinen Namen ein.");
             Name = Console.ReadLine();
 
-            if (Name.Length <= 20)
+            if (Name.Length > 0)
             {
                 Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine($"\nHallo {Name}!!!\n");
@@ -38,10 +40,10 @@ namespace Projektarbeit
             }
         }
 
+        // Methode zur Abfrage des Alters mit Konsolenausgabe und Validierung
         public int AbfrageAlter()
         {
-
-            Console.WriteLine("Gib Bitte dein Alter ein.");
+            Console.WriteLine("Gib bitte dein Alter ein.");
             Alter = Convert.ToInt32(Console.ReadLine());
 
             if (Alter >= 10 && Alter <= 99)
@@ -52,9 +54,9 @@ namespace Projektarbeit
                 Thread.Sleep(1000);
                 return Alter;
             }
-            else if (Alter < 12)
+            else if (Alter < 10)
             {
-                Console.WriteLine("Du musst mindestens 10 Jahre sein!");
+                Console.WriteLine("Du musst mindestens 10 Jahre alt sein!");
                 return Alter;
             }
             else if (Alter > 99)
@@ -69,13 +71,13 @@ namespace Projektarbeit
             }
         }
 
+        // Methode zur Abfrage des Handys mit Konsolenausgabe und Validierung
         public string AbfrageHandy()
         {
-
-            Console.WriteLine("Gib ein welches Handy du hast.");
+            Console.WriteLine("Gib bitte an, welches Handy du hast.");
             Handy = Console.ReadLine();
 
-            if (Handy.Length >= 3)
+            if (Handy.Length > 0)
             {
                 Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine($"\nDu hast ein {Handy}!!!\n");

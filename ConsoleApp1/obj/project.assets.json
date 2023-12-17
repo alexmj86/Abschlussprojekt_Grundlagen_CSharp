@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexm\\source\\repos\\Abschlussprojekt Alexander Mjalli\\Projektarbeit Spielbuch\\ConsoleApp1\\Projektarbeit.csproj",
+      "projectUniqueName": "D:\\Alexander Mjalli\\05_Programmierung\\01_C# Projekte\\Abschlussprojekt Alexander Mjalli\\Projektarbeit Spielbuch\\Abschlussprojekt_Grundlagen_CSharp\\ConsoleApp1\\Projektarbeit.csproj",
       "projectName": "Projektarbeit",
-      "projectPath": "C:\\Users\\alexm\\source\\repos\\Abschlussprojekt Alexander Mjalli\\Projektarbeit Spielbuch\\ConsoleApp1\\Projektarbeit.csproj",
+      "projectPath": "D:\\Alexander Mjalli\\05_Programmierung\\01_C# Projekte\\Abschlussprojekt Alexander Mjalli\\Projektarbeit Spielbuch\\Abschlussprojekt_Grundlagen_CSharp\\ConsoleApp1\\Projektarbeit.csproj",
       "packagesPath": "C:\\Users\\alexm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexm\\source\\repos\\Abschlussprojekt Alexander Mjalli\\Projektarbeit Spielbuch\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\Alexander Mjalli\\05_Programmierung\\01_C# Projekte\\Abschlussprojekt Alexander Mjalli\\Projektarbeit Spielbuch\\Abschlussprojekt_Grundlagen_CSharp\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alexm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
